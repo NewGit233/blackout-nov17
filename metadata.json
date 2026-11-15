@@ -1,0 +1,6 @@
+{
+  "name": "Blackout: Nov 17",
+  "description": "A 2D pixel-art small-town survival and hidden object mystery game set during the November 17th blackout rumors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
